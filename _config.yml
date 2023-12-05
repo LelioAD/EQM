@@ -43,7 +43,7 @@ round-avatar: false
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-title-img: /assets/img/eqm-acronym-v2-all-black.png
+title-img: /assets/img/EQM-Banner-Black-and-Gray.png
 
 
 #####################################
@@ -134,15 +134,15 @@ keywords: "EQM,Equitable,Market,Systems,EGP,LtheSteward,Economy,Politics,USA,Ame
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#6c1cd3"
-navbar-text-col: "#404040"
-navbar-border-col: "#4B0082"
+navbar-text-col: "#F8F8FF"
+navbar-border-col: "#6c1cd3"
 page-col: "#F8F8FF"
-text-col: "#404040"
+text-col: "#262626"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#6c1cd3"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#F8F8FF"
 footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
