@@ -21,13 +21,13 @@ author: Equitable Market Systems
 
 navbar-links:
   About:
-    - Egalitarian Systems: 
-    - Equitable Market Systems: 
-    - Egalitarian Political Systems: 
-  Political System: "EGP"
+    - What are egalitarian systems?: 
+    - EQM: 
+    - Egalitarian Political Systems: "egp"
+  Political Systems: "egp"
   Learn More: "learn"
   Join a Team: "join"
-  Products & Services: 
+  Products & Services: "products"
 
 ################
 # --- Logo --- #
@@ -43,7 +43,7 @@ round-avatar: false
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-title-img: /assets/img/eqm-acronym-v2-cropped.png
+title-img: /assets/img/eqm-acronym-v2-all-black.png
 
 
 #####################################
