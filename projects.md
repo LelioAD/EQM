@@ -1,8 +1,14 @@
 # Sustainable Social Media Platform
 
+Info
+
 # Career + B2B Solutions
 
+Info
+
 # Egalitarian Political System
+
+Info
 
 # Future projects
 
