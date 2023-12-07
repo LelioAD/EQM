@@ -2,4 +2,4 @@
 
 ---
 
-## Testing to see how this works
+![test](/assets/img/EQM-Banner-Black-and-Gray.png)
