@@ -19,16 +19,18 @@ author: Equitable Market Systems
 # --- List of links in the navigation bar --- #
 ###############################################
 
+# For "About", I plan on having one page that covers all of the subtopics from top to bottom. 
+# So we can link to headers for each, and subheaders for solving for "x".
+
 navbar-links:
   About:
-    - What are egalitarian systems?: 
-    - EQM: 
-    - Egalitarian Political Systems: "egp"
-  Political Systems: "egp"
-  Learn More: "learn"
+    - Egalitarian systems
+    - Equitable Market Systems
+    - Key Concepts 
+    - How we solve for (x)
+  Egalitarian Political Systems: "egp"
   Join a Team: "join"
-  Key Concepts: "concepts"
-  Products & Services: "products"
+  Projects: "projects"
 
 ################
 # --- Logo --- #
