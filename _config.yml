@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-name: Equitable Market Systems
+title: Equitable Market Systems
 
 # Your name to show in the footer
 author: Equitable Market Systems
@@ -24,10 +24,10 @@ author: Equitable Market Systems
 
 navbar-links:
   About:
-    - Egalitarian systems
-    - Equitable Market Systems
-    - Key Concepts 
-    - How we solve for (x)
+    - Egalitarian systems: "egp"
+    - Equitable Market Systems: "egp"
+    - Key Concepts: "concepts"
+    - How we solve for (x): "egp"
   Egalitarian Political Systems: "egp"
   Join a Team: "join"
   Projects: "projects"
@@ -46,14 +46,14 @@ round-avatar: false
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-title-img: assets/img/EQM-banner-wnp.png
+title-img: /assets/img/EQM-banner-wnp.png
 
 ########################
 # --- Color Scheme --- #
 ########################
 
-font-family: 'Avenir', 'Times New Roman'
-
+# font-family: 'Avenir', 'Times New Roman'
+# Can try to add color scheme modifications here
 
 
 #####################################
@@ -93,7 +93,7 @@ social-network-links:
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
-  tiktok: eqmsystems
+#  tiktok: eqmsystems
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
