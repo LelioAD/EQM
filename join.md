@@ -6,3 +6,5 @@
 ![Join](/assets/img/EQM-banner-wnp.png)
 
 ![Join](./assets/img/EQM-banner-wnp.png)
+
+![[concepts.md]]
