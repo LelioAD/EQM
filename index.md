@@ -1,20 +1,20 @@
 ---
 title: Radical change is possible—it starts with us.
+Subtitle: Unleashing the power of collective organization.
+
 ---
 
-<style> 
-{
-    position: absolute;
-    margin: 0;
-    top: 0;
-}
-</style>
-
-<iframe width="960" height="540" src="https://www.youtube.com/embed/L6NHsudeMtA?si=Z0THvatqh6Q9LHDC?autoplay=1&mute=1" frameborder="0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; loop; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L6NHsudeMtA?si=2kAVJC51QFYbv3kM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+# What are Egalitarian Systems?
 
-|---|---|
-|What are Egalitarian Systems? | Key Concepts|
-|Egalitarian Political System | EQM |
-|Join | Projects
+# Key Concepts
+
+# Egalitarian Political System
+
+# EQM
+
+# Join
+
+# Projects
