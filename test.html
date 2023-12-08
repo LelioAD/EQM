@@ -1,78 +1,34 @@
 
+
+
 <head>
     <title>Equitable Market Systems</title>
 </head>
-<body>
-    <video width="100%" top=0 left =0 src="https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/Solve4US1080p12723.mp4?alt=media&token=a7e6e49f-7913-4bc5-a707-a0be7e38cbd0" muted loop autoplay></video>
-    <h1>Yoo</h1>
 
-</body>
-
-
-top: 0;
-    left: 0;
-    object-fit: cover;
-    min-height: 100vh;
-    min-width: 100vw;
-    padding: 100px;
-    display: flex;
-    justify-content: space-between;
-    align-items: top;
-    z-index: 2;"
+<iframe width="960" height="540" src="https://www.youtube.com/embed/L6NHsudeMtA?si=Z0THvatqh6Q9LHDC?autoplay=1&mute=1" frameborder="0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; loop; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
-    ---
-    # OLDER VERSION W. SHOWCASE
-    ---
-
-
-
-<head>
-    <style>
-        .showcase video {
-            position: absolute;
-            top: 0;
-            left: 0;
-            object-fit: cover;
-            min-height: 100vh;
-            min-width: 100vw;
-            padding: 100px;
-            display: flex;
-            justify-content: space-between;
-            align-items: top;
-            z-index: 2;
-
+<div id="ytplayer"></div>
+<script>
+// Load the IFrame Player API code asynchronously.
+var tag = document.createElement('script');
+tag.src = "https://www.youtube.com/player_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+// Replace the 'ytplayer' element with an <iframe> and
+// YouTube player after the API code downloads.
+var player;
+function onYouTubePlayerAPIReady() {
+    player = new YT.Player('ytplayer', {
+        height: '540',
+        width: '960',
+        videoId: '8MgpE2DTTKA',
+        playerVars: {
+            'autoplay': 1,
+            'showinfo': 0,
+            'controls': 0
         }
-    </style>
-    <title>Equitable Market Systems</title>
-</head>
-<body>
-<section class="showcase">
-    <video src="https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/Solve4US1080p12723.mp4?alt=media&token=a7e6e49f-7913-4bc5-a707-a0be7e38cbd0" muted loop autoplay></video>
-</section>
-
-</body>
-
----
-Latest and greatest (12.7.23 11:50pm)
-
-
-<style>
-    .showcase {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        position: absolute;
-        top: 0;
-        right: 0;
-        width: 100%;
-        object-fit: cover;
-        min-height: 100vh;
-        padding: 100px;
-        display: flex;
-        justify-content: space-between;
-        align-items: top;
-        z-index: 2;
-    }
-</style>
+    });
+}
+</script>
