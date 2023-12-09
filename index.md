@@ -9,12 +9,12 @@ Subtitle: Unleashing the power of collective organization.
 
 
 
-# Key Concepts
+# Equitable Market Systems is building the political party that the humanitarian majority deserves.
 
 ## Egalitarian Political System
 
-# EQM
+## About EQM
 
-# Join
+## Join
 
-# Projects
+## Projects
