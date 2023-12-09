@@ -23,13 +23,11 @@ author: Equitable Market Systems
 # So we can link to headers for each, and subheaders for solving for "x".
 
 navbar-links:
-  About:
-    - Egalitarian systems: "egp"
-    - Equitable Market Systems: "egp"
-    - Key Concepts: "concepts"
-    - How we solve for (x): "egp"
+  About: "about"
+    - Egalitarian systems: "about#What are egalitarian systems?"
+    - Equitable Market Systems (EQM): "about#Equitable Market Systems (EQM)"
   Egalitarian Political Systems: "egp"
-  Join a Team: "join"
+  Join the Team: "build"
   Projects: "projects"
 
 ################

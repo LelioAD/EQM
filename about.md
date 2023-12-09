@@ -44,7 +44,7 @@ EQM's administrative team is tasked with reducing risk and improving the probabi
 
 # Objective ethics
 
-It is possible to determine what is **objectively ethical** based on the outcomes decisions have on individuals and groups. 
+It is possible to determine what is **objectively ethical** based on projected and actual outcomes that decisions have on individuals and groups. 
 
 In its simplest form, objective ethics is concerned with how to act in the best interest of both yourself and other individuals and groups. 
 
