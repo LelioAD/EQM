@@ -6,45 +6,46 @@ subtitle: Equitable Market Systems | Egalitarian Political System | Key Concepts
 
 # What are egalitarian systems?
 
-Societies are usually held together by ***systems***. Political and economic systems determine the wellbeing of a country.
+Societies are usually held together by **systems**. Political and economic systems determine the wellbeing of a country.
 
 An **egalitarian system** is any kind of system that operates with the belief that **all people are equal**. Policies and activities are conducted with this understanding in mind.
 
 ## Egalitarian political systems
 
-Political organizations that govern according to what is best for **everyone**, domestically and internationally. These administrations listen to their citizens, allocate resources to their concerns, and implement policies that make for a more wholesome country.
+Any political organization that governs based on what is best for **everyone**, using [objective ethics]({{ eqm.systems/about#objective-ethics}}{% link /egp.md %}) as a standard.
 
-These organizations protect rights for each group represented, and facilitate efforts to improve the lives of every group based on an objective ethical standard.
+In addition to governing responsibly, these administrations listen to their citizens, allocate resources to their concerns, and implement ethical policies to form and maintain a wholesome country.
+
+In an egalitarian political system, organizations protect the rights and improve the lives of **every group represented**. If you are alive, you are considered valuable. 
 
 ## Egalitarian market systems
 
-Companies and organizations within an economy that conduct business with ***intentional integrity***. They hold themselves to high standards and lead their respective industries to a "race to the top"—better outcomes for society, the environment, workers, organizations, and government.
+An egalitarian market system is a collection of companies and organizations who conduct business in any industry with **intentional integrity**. They hold themselves to high standards and lead their respective industries to a "race to the top": wholesome outcomes for society, the environment, workers, organizations, and government.
 
-High-level egalitarian market activity includes removing barriers for workers to achieve their desired careers, paying people for the value they bring to the company instead of the often underwhelming "market rate", and maintaining healthy corporate cultures with work/life balance.
+At a high level, egalitarian market activity includes: 
 
-# What is Equitable Market Systems?
+- removing barriers for workers to achieve their desired careers, 
+- paying people for the value they bring to the company instead of the often underwhelming "market rate", and 
+- maintaining healthy corporate cultures with work/life balance.
 
-Equitable Market Systems (EQM) is a for-profit, egalitarian 
+# Equitable Market Systems (EQM)
 
- Its initial mission is to build egalitarian economic and political systems. EQM advocates for societies internationally to adapt similar models
+Equitable Market Systems (EQM) is a entrepreneurial startup that aims to build competitive organizations with or without initial investment. 
 
-# Egalitarian objective ideology
+While EQM is a for-profit organization, our first endeavor is to build a non-profit political system for Americans who do not have a political party that represents them or acts on their values.
 
-Info
+Entrepreneurs often build products or services without capital, investing their own resources to create something of value and retain ownership of that project. 
 
-# Egalitarian political systems
+EQM takes the entrepreneurial model a step further by enlisting a full team to develop projects from scratch to launch. Team contributions are tracked, and members receive pay once the company earns revenue.
 
+Once operating costs are covered, team members receive up to 3x their respective role's "egalitarian market rate" based on the company's financial success. EQM uses the remaining revenue to fund future businesses that can afford to pay workers at the onset while following the same pay structure.
 
-# Egalitarian market systems
+EQM's administrative team is tasked with reducing risk and improving the probability of success, to all but ensure that everyone's collective efforts are rewarded.
 
-An egalitarian market system conducts businesses in any industry with principles 
+# Objective ethics
 
-## Market System
+It is possible to determine what is **objectively ethical** based on the outcomes decisions have on individuals and groups. 
 
+In its simplest form, objective ethics is concerned with how to act in the best interest of both yourself and other individuals and groups. 
 
-## Political System
-
-
-
-
-[egalitarian systems?]({{ eqm.systems/egp }}{% link /egp.md %})
+For every company and facet of government, there are ethical ways to operate. With intentionality, we can create policies that keep everyone's best interest in mind.
