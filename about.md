@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Equitable Market Systems | Egalitarian Political System | Key Concepts
+subtitle: Egalitarian systems | EQM | Egalitarian Political Systems (EGP)
 ---
 
 # What are egalitarian systems?
@@ -34,6 +34,8 @@ At a high level, egalitarian market activity includes:
 Equitable Market Systems (EQM) is a entrepreneurial startup that aims to build competitive organizations with or without initial investment. 
 
 While EQM is a for-profit organization, our first endeavor is to build a non-profit political system for Americans who do not have a political party that represents them or acts on their values.
+
+## Corporate model
 
 Entrepreneurs often build products or services without capital, investing their own resources to create something of value and retain ownership of that project. 
 
