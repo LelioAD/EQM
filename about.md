@@ -40,6 +40,10 @@ EQM takes the entrepreneurial model a step further by enlisting a full team to d
 
 Once operating costs are covered, team members receive up to 3x their respective role's "egalitarian market rate" based on the company's financial success. EQM uses the remaining revenue to fund future businesses that can afford to pay workers at the onset while following the same pay structure.
 
+**Socially owned** comapnies compensate leadership and workers accordingly, then allocate the remaining earnings to fund new businesses of any size, as well as socially beneficial projects, such as research and development for scientific breakthroughs. 
+
+**Proprietary** companies are built using EQM teams and/or resources. The owner(s) continues to receive residuals for developing the idea after their contributions are complete.
+
 EQM's administrative team is tasked with reducing risk and improving the probability of success, to all but ensure that everyone's collective efforts are rewarded.
 
 # Objective ethics
