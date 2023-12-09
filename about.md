@@ -12,7 +12,7 @@ An **egalitarian system** is any kind of system that operates with the belief th
 
 ## Egalitarian political systems
 
-Any political organization that governs based on what is best for **everyone**, using [objective ethics]({{ eqm.systems/about#objective-ethics}}{% link /egp.md %}) as a standard.
+Any political organization that governs based on what is best for **everyone**, using objective ethics as a standard.
 
 In addition to governing responsibly, these administrations listen to their citizens, allocate resources to their concerns, and implement ethical policies to form and maintain a wholesome country.
 
