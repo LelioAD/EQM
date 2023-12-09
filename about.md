@@ -28,6 +28,7 @@ At a high level, egalitarian market activity includes:
 - paying people for the value they bring to the company instead of the often underwhelming "market rate", and 
 - maintaining healthy corporate cultures with work/life balance.
 
+
 # Equitable Market Systems (EQM)
 
 Equitable Market Systems (EQM) is a entrepreneurial startup that aims to build competitive organizations with or without initial investment. 
@@ -48,8 +49,8 @@ EQM's administrative team is tasked with reducing risk and improving the probabi
 
 # Objective ethics
 
-It is possible to determine what is **objectively ethical** based on projected and actual outcomes that decisions have on individuals and groups. 
+In its simplest form, **objective ethics** is concerned with how to act in the best interest of one's self, as well as other individuals and groups. 
 
-In its simplest form, objective ethics is concerned with how to act in the best interest of both yourself and other individuals and groups. 
+It is possible to determine what is **objectively ethical** based on projected and actual outcomes that decisions have others.
 
 For every company and facet of government, there are ethical ways to operate. With intentionality, we can create policies that keep everyone's best interest in mind.
