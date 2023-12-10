@@ -8,13 +8,12 @@ Subtitle: Unleashing the power of collective organization.
 
 
 
+# Equitable Market Systems is building:
 
-# Equitable Market Systems is building the political party that the humanitarian majority deserves.
+## The U.S. political party that humanity deserves.
 
-## Egalitarian Political System
+## Fully functioning companies via collective entrepreneurship.
 
-## About EQM
+# Learn more 
 
-## Join
-
-## Projects
+# Join

@@ -31,13 +31,13 @@ At a high level, egalitarian market activity includes:
 
 # Equitable Market Systems (EQM)
 
-Equitable Market Systems (EQM) is a entrepreneurial startup that aims to build competitive organizations with or without initial investment. 
+Equitable Market Systems (EQM) is a startup group of entrepreneurs for every role in a traditional company. We build competitive organizations with or without investors. 
 
-While EQM is a for-profit organization, our first endeavor is to build a non-profit political system for Americans who do not have a political party that represents them or acts on their values.
+While EQM is a for-profit organization, our first endeavor is non-profit: building a political party system for Americans who do not have a political party that represents them or acts on their values.
 
 ## Corporate model
 
-Entrepreneurs often build products or services without capital, investing their own resources to create something of value and retain ownership of that project. 
+Entrepreneurs often build products or services without capital, investing their own resources to create something of value, while retaining ownership of that project. 
 
 EQM takes the entrepreneurial model a step further by enlisting a full team to develop projects from scratch to launch. Team contributions are tracked, and members receive pay once the company earns revenue.
 
