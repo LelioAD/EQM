@@ -13,7 +13,7 @@ Inlcude one or more of the following:
 - Your [LinkedIn](https://www.linkedin.com/) profile
 - Resume, OR a brief description of your relevant work history.
 - Casual cover letter—a description of who you are, and how you can contribute
-- Link to an intro video about yourself
+- Link to an intro video about yourself.
 - Links to work you've published that demonstrate your skills.
 - Anything you think would be helpful that isn't listed here.
 
@@ -21,9 +21,9 @@ Inlcude one or more of the following:
 
 Equitable Market Systems (EQM) is a core administration that will develop egalitarian organizations in diffrent industries and fields. 
 
-We seek to fund our core operations through for-profit projects such as a **[sustainable social media platform.](#sustainable-social-media-platform).**
+We seek to fund our core operations through for-profit projects such as a **[sustainable social media platform.](#sustainable-social-media-platform)**
 
-To accomplish both for-profit and non-profit endeavors, we will need an initial team that is willing to build a company into profitability, receiving pay from the company's earnings.
+To accomplish both for-profit and non-profit endeavors, we will need an initial entrepreneurial team to build our first comapanies into profitability, receiving pay from our first earnings.
 
 **Administrative needs include:**
 
@@ -44,13 +44,13 @@ To accomplish both for-profit and non-profit endeavors, we will need an initial 
 - Government relations
 - Coaching & Success Management
 
-If your role is not listed but you're still interested in joining, contact us!
+If your role is not listed above but you're still interested in participating, contact us!
 
-If your email bounces back, reach out to @lthesteward on your preferred social media.
+Also feel free to reach out to @lthesteward on your preferred social media.
 
 # Current Projects
 
-## Egalitarian Political System
+## U.S. Egalitarian Political System (EGP)
 
 This has become top priority, considering the 2024 elections are in 10 months.
 

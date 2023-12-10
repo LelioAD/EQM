@@ -8,14 +8,14 @@ Subtitle: Unleashing the power of collective organization.
 
 
 
-**Equitable Market Systems is building:**
+**Equitable Market Systems (EQM) is building:**
 
 ## The U.S. political party that humanity deserves.
 
-Learn more about the [Egalitarian Political System](https://eqm.systems/egp).
+**Learn more about the [Egalitarian Political System](https://eqm.systems/egp).**
 
-## Fully functioning organizations through collective entrepreneurship.
+## Thriving organizations through collective entrepreneurship.
 
-[How we plan to build sustainable organizations with or without investment.](https://eqm.systems/about#equitable-market-systems-eqm)
+**[How we plan to build sustainable companies with or without investment.](https://eqm.systems/about#equitable-market-systems-eqm)**
 
-### [Join our Team](https://eqm.systems/build)
+### [Join our Team.](https://eqm.systems/build)
