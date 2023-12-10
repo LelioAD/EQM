@@ -5,8 +5,6 @@ subtitle: A realistic path to the country we deserve.
 ---
 
 
-
-
 # The path to an egalitarian political party: 
 
 ## 1. Identify the new majority.
@@ -15,7 +13,7 @@ The new majority is **conscious, informed** to varying degrees, **ethical,** and
 
 While we may not agree with everything, we have enough in common to form a new majority and move the country *forward*.
 
-## 2. Form an organization to facilitate.
+## 2. Form an organization to facilitate the party.
 
 Modern presidential candidates usually spend over $100 million on election staffing and campaigns. This creates a barrier for entry in many cases.
 
