@@ -10,12 +10,12 @@ Email [build@eqm.systems](mailto:build@eqm.systems). Add your desired role(s) to
 
 Inlcude one or more of the following:
 
-- Your LinkedIn profile
-- Resume
+- Your [LinkedIn](https://www.linkedin.com/) profile
+- Resume, OR a brief description of your relevant work history.
 - Casual cover letter—a description of who you are, and how you can contribute
 - Link to an intro video about yourself
 - Links to work you've published that demonstrate your skills.
-
+- Anything you think would be helpful that isn't listed here.
 
 # Administrative needs
 
