@@ -3,12 +3,12 @@ layout: page
 title: About
 ---
 
-**[What are egalitarian systems?](#what-are-egalitarian-systems)**
-- **[Egalitarian political systems](#egalitarian-political-systems)**
-- **[Egalitarian market systems](#egalitarian-market-systems)**
-**[Equitable Market Systems (EQM)](#equitable-market-systems-eqm)**
-- **[Corporate model](#corporate-model)**
-**[Objective ethics](#objective-ethics)**
+- **[What are egalitarian systems?](#what-are-egalitarian-systems)**
+    - **[Egalitarian political systems](#egalitarian-political-systems)**
+    - **[Egalitarian market systems](#egalitarian-market-systems)**
+- **[Equitable Market Systems (EQM)](#equitable-market-systems-eqm)**
+    - **[Corporate model](#corporate-model)**
+- **[Objective ethics](#objective-ethics)**
 
 # What are egalitarian systems?
 
