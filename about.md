@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-subtitle: Egalitarian systems | EQM | Egalitarian Political System
 ---
 
 **[What are egalitarian systems?](#what-are-egalitarian-systems)**
