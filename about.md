@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Egalitarian systems | EQM | Egalitarian Political System (EGP)
+subtitle: Egalitarian systems | EQM | Egalitarian Political System
 ---
 
 # What are egalitarian systems?

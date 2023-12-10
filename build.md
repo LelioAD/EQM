@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join the Team
-subtitle: Let's build a better future together
+subtitle: Let's build a better future together.
 ---
 
 # Start here
