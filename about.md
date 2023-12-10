@@ -41,7 +41,7 @@ Entrepreneurs often build products or services without capital, investing their 
 
 EQM takes the entrepreneurial model a step further by enlisting a full team to develop projects from scratch to launch. Team contributions are tracked, and members receive pay once the company earns revenue.
 
-Once operating costs are covered, team members receive up to 3x their respective role's "egalitarian market rate" based on the company's financial success. EQM uses the remaining revenue to fund future businesses that can afford to pay workers at the onset while following the same pay structure.
+Once operating costs are covered, team members receive up to 3x their respective role's "egalitarian market rate" in scale with the company's financial success. EQM uses the remaining revenue to fund future businesses that can afford to pay workers from day one while following the same reward structure.
 
 **Socially owned** comapnies compensate leadership and workers accordingly, then allocate the remaining earnings to fund new businesses of any size, as well as socially beneficial projects, such as research and development for scientific breakthroughs. 
 

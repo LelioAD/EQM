@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Egalitarian Political System
+title: U.S. Egalitarian Political System
 subtitle: Vote for policies, not personalities.
 ---
 
