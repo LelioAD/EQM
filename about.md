@@ -4,6 +4,13 @@ title: About
 subtitle: Egalitarian systems | EQM | Egalitarian Political System
 ---
 
+- What are egalitarian systems?
+    - [Egalitarian political systems]({{ https://eqm.systems/about/#egalitarian-political-systems}}{% link /about.md %})
+    - Egalitarian market systems
+- Equitable Market Systems (EQM)
+    - Corporate model
+- Objective ethics
+
 # What are egalitarian systems?
 
 Societies are usually held together by **systems**. Political and economic systems determine the wellbeing of a country.
