@@ -4,12 +4,12 @@ title: About
 subtitle: Egalitarian systems | EQM | Egalitarian Political System
 ---
 
-- What are egalitarian systems?
-    - [Egalitarian political systems]({{ https://eqm.systems/about/#egalitarian-political-systems}}{% link /about.md %})
-    - Egalitarian market systems
-- Equitable Market Systems (EQM)
-    - Corporate model
-- Objective ethics
+- [What are egalitarian systems?](#what-are-egalitarian-systems)
+    - [Egalitarian political systems](#egalitarian-political-systems)
+    - [Egalitarian market systems](#egalitarian-market-systems)
+- [Equitable Market Systems (EQM)](#equitable-market-systems-eqm)
+    - [Corporate model](#corporate-model)
+- [Objective ethics](#objective-ethics)
 
 # What are egalitarian systems?
 
@@ -19,7 +19,7 @@ An **egalitarian system** is any kind of system that operates with the belief th
 
 ## Egalitarian political systems
 
-Any political organization that governs based on what is best for **everyone**, using objective ethics as a standard.
+Any political organization that governs based on what is best for **everyone**, using [objective ethics](#objective-ethics) as a standard.
 
 In addition to governing responsibly, these administrations listen to their citizens, allocate resources to their concerns, and implement ethical policies to form and maintain a wholesome country.
 
