@@ -42,6 +42,7 @@ round-avatar: false
 # then specify the following parameter
 #title-img: /path/to/image
 title-img: /assets/img/EQM-banner-wnp.png
+remove-ads: true
 
 ########################
 # --- Color Scheme --- #
