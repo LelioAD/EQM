@@ -46,7 +46,7 @@ To accomplish both for-profit and non-profit endeavors, we will need an initial 
 
 If your role is not listed above but you're still interested in participating, contact us!
 
-Also feel free to reach out to @lthesteward on your preferred social media.
+Also feel free to reach out to [@lthesteward](https://allmylinks.com/lthesteward) on your preferred social media.
 
 # Current Projects
 
