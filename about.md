@@ -62,3 +62,6 @@ In its simplest form, **objective ethics** is concerned with how to act in the b
 It is possible to determine what is **objectively ethical** based on projected and actual outcomes that decisions have others.
 
 For every company and facet of government, there are ethical ways to operate. With intentionality, we can create policies that keep everyone's best interest in mind.
+
+
+<iframe src="https://e.givesmart.com/events/A22/page/order-form/embed" width="100%" height="650"></iframe>
