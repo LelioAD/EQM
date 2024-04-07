@@ -1,7 +1,7 @@
 ---
 layout: page
 title: [IDEALS NEXUS](us.ideals.nexus)
-subtitle: Environmental, Political, Economic, and Social ideals, plus projects to realize them.
+subtitle: Environmental, Political, Economic, and Social ideals, plus projects to realize them. [U.S. Beta](us.ideals.nexus) available.
 ---
 
 
