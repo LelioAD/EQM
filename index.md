@@ -3,7 +3,7 @@ layout: home
 title: Radical change is possible—it starts with us.
 ---
 
-<iframe style="display: block; margin: 0 auto;" width="100%" height="315" src="https://www.youtube.com/embed/L6NHsudeMtA?si=2kAVJC51QFYbv3kM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/931782049?h=72f32cdce6&autoplay=1&loop=1&muted=1&color=BF81E8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
 
 
