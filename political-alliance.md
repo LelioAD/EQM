@@ -1,11 +1,11 @@
 ---
 layout: page
-title: U.S. National Political Alliance
-subtitle: Supporting a multilateral party alliance—a realistic path to a humanitarian administration.
+title: U.S. Humanitarian Political Alliance
+subtitle: Supporting ethical multiparty candidates—a realistic path to a humanitarian administration.
 ---
 
 
-# The path to a national, multilateral political alliance: 
+# The path to a national Humanitarian Political Alliance: 
 
 ## 1. Identify the new majority.
 

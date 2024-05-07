@@ -11,7 +11,7 @@ title: Radical change is possible—it starts with us.
 
 ## The U.S. multilateral political alliance that humanity deserves.
 
-**Learn more about the [Humanitarian National Political Alliance](https://eqm.systems/political-alliance).**
+**Learn more about the [Humanitarian Political Alliance](https://eqm.systems/political-alliance).**
 
 ## [Ideals Nexus](https://ideals.nexus)
 

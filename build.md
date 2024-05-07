@@ -51,7 +51,7 @@ Also feel free to reach out to [@lthesteward](https://allmylinks.com/lthesteward
 
 # Current Projects
 
-## U.S. Humanitarian National Political Alliance
+## National U.S. Humanitarian Political Alliance
 
 A top priority in light of the 2024 U.S. elections. [Learn more.](https://eqm.systems/political-alliance/)
 
