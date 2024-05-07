@@ -13,7 +13,7 @@ The new majority is **conscious, informed** to varying degrees, **ethical,** and
 
 While we may not agree with everything, we have enough in common to form a new majority and move the country *forward*—before it regresses for four more years.
 
-## 2. Form a team to facilitate the party.
+## 2. Form a team to facilitate the alliance.
 
 Modern presidential candidates usually spend over $100 million on election staffing and campaigns. This creates a barrier for entry in many cases.
 
@@ -33,12 +33,12 @@ This is where we get the country we deserve, instead of the "lesser evil": right
 
 Humanitarian politicians are those who understand what society wants and deserves, and take action to realize these ideals. They articulate citizens' desires for the countrym and act by introducing and approving corresponding bills.
 
-Ideally, the political alliance should have the ability to **impeach and replace its own candidates** should they vote astray from the outlined policies. Party legal consultants can confirm how to achieve this. 
+Ideally, the political alliance should have the ability to **impeach and replace its own candidates** should they vote astray from the outlined policies. Legal and public policy consultants can strategize how to achieve this. 
 
-Existing politicians may be able to run on the egalitarian ballot, provided that they have a track record for humanitarianism, adhere to our desired policies, and do not act outside of the supermajority's interests.
+Existing politicians may be able to run on the humanitarian alliance ticket, provided that they have a track record for ethical effort, advocacy, and judgment, and adhere to our desired policies, not acting outside of the supermajority's interests.
 
 ## 5. Vote for the country you desire.
 
 Once society and candidates are aligned on what we want, we make our desires into reality by showing up in large numbers at the polls. 
 
-You are invited to [join the effort](https://eqm.systems/build/).
+You are invited to help [build the administration](https://eqm.systems/build/), or support ongoing efforts.
