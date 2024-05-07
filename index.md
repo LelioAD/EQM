@@ -11,7 +11,7 @@ title: Radical change is possible—it starts with us.
 
 ## The U.S. political party that humanity deserves.
 
-**Learn more about the [Egalitarian Political System](https://eqm.systems/egp).**
+**Learn more about the [Humanitarian National Political Alliance](https://eqm.systems/political-alliance).**
 
 ## Thriving organizations through collective entrepreneurship.
 

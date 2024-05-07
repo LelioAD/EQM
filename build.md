@@ -38,6 +38,7 @@ To accomplish both for-profit and non-profit endeavors, we will need an initial 
 - Graphic Design
 - Data & Analytics
 - Legal
+- Investment
 - Industry Consultants
 - Business Development
 - Quality Assurance
@@ -50,15 +51,13 @@ Also feel free to reach out to [@lthesteward](https://allmylinks.com/lthesteward
 
 # Current Projects
 
-## U.S. Egalitarian Political System (EGP)
+## U.S. Humanitarian National Political Alliance
 
-This has become top priority, considering the 2024 elections are in 10 months.
+A top priority in light of the 2024 U.S. elections. [Learn more.](https://eqm.systems/political-alliance/)
 
-[Learn more at eqm.systems/egp](https://eqm.systems/egp/).
+## Sustainable Multimedia Platform
 
-## Sustainable Social Media Platform
-
-A social media platform, designed responsibly.
+A platform for Film, TV, and Creator content, ethical journalism, and social media—designed responsibly.
 
 Imagined and built by you, for all of us.
 
