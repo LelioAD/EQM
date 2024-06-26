@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Chanje Ayiti (Change for Haiti)
-subtitle: (Change for Haiti) Social Development and Business Consulting for Haiti's leaders. Building communities from the ground up.
+subtitle: Social Development and Business Consulting for Haiti's leaders. Building communities from the ground up.
 ---
 
-## Chanje Ayiti (Change4Haiti)
+## What We Do
 
 ![ChanjeAyiti](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/ChanjeAyiti.png?alt=media&token=72d10bae-f62f-4b19-bca5-fc9949d69b40)
 
@@ -15,3 +15,7 @@ subtitle: (Change for Haiti) Social Development and Business Consulting for Hait
 - Ayabonmbe Music
 - Ayiti Inc.
 - Infinite Ways Network
+
+## Get Involved
+
+Email [build@eqm.systems](mailto:build@eqm.systems). Review what to include in your email on our [Join the Team](http://eqm.systems/build) page.
