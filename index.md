@@ -15,7 +15,9 @@ title: Radical change is possible—it starts with us.
 
 ## [Ideals Nexus](https://ideals.nexus)
 
-**American community solves for U.S. by listing ideals, issues, solutions. We start and support projects that achieve humanitarian goals.**
+American citizens solve for the U.S. by listing **ideals, issues, and solutions** for **politics, economics, society, and the environment**
+
+The community starts and supports projects that achieve humanitarian goals.
 
 ## [Thriving organizations through collective entrepreneurship.](https://eqm.systems/about#equitable-market-systems-eqm)
 

@@ -12,7 +12,7 @@ Solve 4 US is a video series originally [published on Twitter/X](https://x.com/L
 
 A realistic strategy to building our own competitive political and economic solutions, before November 2024, initially with **little to no capital.**
 
-<div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252031/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+<div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252031/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
 
 ## Humanitarian Alliance
 
@@ -20,9 +20,21 @@ A national alliance of candidates across party lines, representing the **ethical
 
 <div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11251328/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
 
+Includes (links to original videos below)
+
+1. [Overview](https://vimeo.com/968865461)
+2. [Execution](https://vimeo.com/968866392)
+3. [Teams](https://vimeo.com/968874065)
+4. [Redeeming the U.S.](https://vimeo.com/968887735)
+
 ## Steps to a U.S. Humanitarian Majority
 
-(Description)
+A step-by-step process to achieving a Humanitarian U.S. President and House supermajority in 2024, and the Senate in 2026.
+
+<div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252047/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+
+Includes the [highlights version](https://vimeo.com/968889332) (7 minutes) and the [full version](https://vimeo.com/968890902) (21 minutes).
+
 
 ## Building an Egalitarian Economy Through our Own Means of Production
 
