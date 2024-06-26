@@ -9,16 +9,16 @@ title: Radical change is possible—it starts with us.
 
 **Equitable Market Systems (EQM) is building:**
 
-## The U.S. multilateral political alliance that humanity deserves.
+## The [U.S. multilateral political alliance](https://eqm.systems/humanitarianalliance) that humanity deserves.
 
-**Learn more about the [Humanitarian Political Alliance](https://eqm.systems/political-alliance).**
+**Learn more about the [Humanitarian Alliance](https://eqm.systems/humanitarianalliance).**
 
 ## [Ideals Nexus](https://ideals.nexus)
 
 **American community solves for U.S. by listing ideals, issues, solutions. We start and support projects that achieve humanitarian goals.**
 
-## Thriving organizations through collective entrepreneurship.
+## [Thriving organizations through collective entrepreneurship.](https://eqm.systems/about#equitable-market-systems-eqm)
 
-**[How we plan to build sustainable companies with or without investment.](https://eqm.systems/about#equitable-market-systems-eqm)**
+A strategic framework to build sustainable, ethical companies **with or without investment.**
 
-### [Join our Team.](https://eqm.systems/build)
+## [Join our Team.](https://eqm.systems/build)
