@@ -18,4 +18,4 @@ subtitle: Social Development and Business Consulting for Haiti's leaders. Buildi
 
 ## Get Involved
 
-Email [build@eqm.systems](mailto:build@eqm.systems). Review what to include in your email on our [Join the Team](http://eqm.systems/build) page.
+Email <a href="mailto:build@eqm.systems">build@eqm.systems</a>. Review what to include in your email on our [Join the Team](http://eqm.systems/build) page.
