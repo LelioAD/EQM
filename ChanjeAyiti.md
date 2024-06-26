@@ -6,7 +6,7 @@ subtitle: Social Development and Business Consulting for Haiti's leaders. Buildi
 
 ## Chanje Ayiti (Change4Haiti)
 
-![ChanjeAyiti](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/ChanjeAyiti.png?alt=media&token=581be31e-fe80-43b8-8e11-4293b3fcf0db)
+![ChanjeAyiti](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/ChanjeAyiti.png?alt=media&token=72d10bae-f62f-4b19-bca5-fc9949d69b40)
 
 ## Partner Organizations
 
