@@ -15,7 +15,7 @@ Solve 4 US is a video series originally [published on Twitter/X](https://x.com/L
 
 A national alliance of candidates across party lines, representing the **ethical majority.**
 
-<div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11251328/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+<div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11251328/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:50%;height:50%;'></iframe></div>
 
 ## Steps to a U.S. Humanitarian Majority
 
