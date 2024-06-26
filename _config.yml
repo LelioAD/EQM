@@ -23,7 +23,6 @@ author: Equitable Market Systems
 # So we can link to headers for each, and subheaders for solving for "x".
 
 navbar-links:
-  About: "about"
   Humanitarian Alliance: "humanitarianalliance"
   Ideals Nexus: "idealsnexus"
   International: "chanjeayiti" 
