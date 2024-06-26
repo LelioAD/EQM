@@ -24,7 +24,9 @@ author: Equitable Market Systems
 
 navbar-links:
   About: "about"
-  Humanitarian Alliance: "humanitarianalliance"
+  Solve 4 U.S.:
+    - Solve 4 U.S. Series: "solve4us"
+    - Humanitarian Alliance: "humanitarianalliance"
   Ideals Nexus: "idealsnexus"
   International:
     - Chanje Ayiti (Change4Haiti): "chanjeayiti"
