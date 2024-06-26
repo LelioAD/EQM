@@ -26,7 +26,7 @@ navbar-links:
   About: "about"
   Humanitarian Alliance: "humanitarianalliance"
   Ideals Nexus: "idealsnexus"
-  International: "chanjeayiti" 
+  International:
     - Chanje Ayiti: "chanjeayiti"
   Join the Team: "build"
   
