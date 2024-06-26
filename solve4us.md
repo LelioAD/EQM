@@ -10,6 +10,9 @@ Solve 4 US is a video series originally [published on Twitter/X](https://x.com/L
 
 ## Overview: Creating our own Political and Economic Solutions
 
+A realistic strategy to building our own competitive political and economic solutions, before November 2024, initially with **little to no capital.**
+
+<div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252031/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
 ## Humanitarian Alliance
 
