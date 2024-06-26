@@ -24,8 +24,10 @@ author: Equitable Market Systems
 
 navbar-links:
   About: "about"
-  Humanitarian Alliance: "humanitarian-alliance"
+  Humanitarian Alliance: "HumanitarianAlliance"
   Ideals Nexus: "idealsnexus"
+  International: 
+    - Chanje Ayiti: "ChanjeAyiti"
   Join the Team: "build"
   
 
