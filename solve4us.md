@@ -49,3 +49,7 @@ Reclaiming "economy" by intentionally designing ethical and sustainable markets.
 <div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252048/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
 Includes the highlights (5 minutes, above) and the [full version](https://vimeo.com/manage/videos/968946010){:target="_blank"}{:rel="noopener noreferrer"} (19 minutes).
+
+# Get involved
+
+Visit the [Join the Team](https://eqm.systems/build){:target="_blank"}{:rel="noopener noreferrer"} page, or fill out this [interest form.](https://t.co/yt8QsR33V7){:target="_blank"}{:rel="noopener noreferrer"}
