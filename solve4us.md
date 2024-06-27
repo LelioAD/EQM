@@ -36,6 +36,10 @@ A step-by-step process to achieving a Humanitarian U.S. President and House supe
 Includes the [highlights version](https://vimeo.com/968889332) (7 minutes) and the [full version](https://vimeo.com/968890902) (21 minutes).
 
 
-## Building an Egalitarian Economy Through our Own Means of Production
+## Building an Egalitarian Economy
 
 (Description)
+
+<div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252048/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+
+
