@@ -4,9 +4,11 @@ title: Solve 4 U.S.
 subtitle: Consulting U.S. citizens on how to achieve humanitarian economic and political outcomes in 2024.
 ---
 
+![3 party pie](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/3partypieweb.png?alt=media&token=7c26ad4d-20ba-4551-b389-bbecdd54ef8e)
+
 # Initial Video Series
 
-Solve 4 US is a video series originally [published on Twitter/X](https://x.com/LtheSteward/status/1787844137422553409) between May and June 2024. 
+Solve 4 US is a video series originally [published on Twitter/X](https://x.com/LtheSteward/status/1787844137422553409){:target="_blank"}{:rel="noopener noreferrer"} between May and June 2024. 
 
 ## Overview: Creating our own Political and Economic Solutions
 
