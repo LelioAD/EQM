@@ -31,7 +31,7 @@ Includes (links to original videos below)
 
 A step-by-step process to achieving a Humanitarian U.S. President and House supermajority in 2024, and the Senate in 2026.
 
-<div style='padding:177.78% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252047/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+<div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252047/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
 Includes the [highlights version](https://vimeo.com/968889332) (7 minutes) and the [full version](https://vimeo.com/968890902) (21 minutes).
 
