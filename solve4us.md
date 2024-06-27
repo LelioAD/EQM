@@ -16,8 +16,8 @@ A realistic strategy to building our own competitive political and economic solu
 
 Includes:
 
-1. Political Solutions
-2. Economic Solutions
+1. [Political Solutions](https://vimeo.com/968851789){:target="_blank"}{:rel="noopener noreferrer"}
+2. [Economic Solutions](https://vimeo.com/968859932){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Humanitarian Alliance
 
@@ -27,10 +27,10 @@ A national alliance of candidates across party lines, representing the **ethical
 
 Includes:
 
-1. [Overview](https://vimeo.com/968865461)
-2. [Execution](https://vimeo.com/968866392)
-3. [Teams](https://vimeo.com/968874065)
-4. [Redeeming the U.S.](https://vimeo.com/968887735)
+1. [Overview](https://vimeo.com/968865461){:target="_blank"}{:rel="noopener noreferrer"}
+2. [Execution](https://vimeo.com/968866392){:target="_blank"}{:rel="noopener noreferrer"}
+3. [Teams](https://vimeo.com/968874065){:target="_blank"}{:rel="noopener noreferrer"}
+4. [Redeeming the U.S.](https://vimeo.com/968887735){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Steps to a U.S. Humanitarian Majority
 
@@ -38,7 +38,7 @@ A step-by-step process to achieving a Humanitarian U.S. President and House supe
 
 <div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252047/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
-Includes the [highlights version](https://vimeo.com/968889332) (7 minutes) and the [full version](https://vimeo.com/968890902) (21 minutes).
+Includes the highlights (7 minutes, above) and the [full version](https://vimeo.com/968890902){:target="_blank"}{:rel="noopener noreferrer"} (21 minutes).
 
 ## Building an Egalitarian Economy
 
@@ -46,4 +46,4 @@ Reclaiming "economy" by intentionally designing ethical and sustainable markets.
 
 <div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252048/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
-Includes the highlights version (5 minutes) and the full version (19 minutes).
+Includes the highlights (5 minutes, above) and the [full version](https://vimeo.com/manage/videos/968946010){:target="_blank"}{:rel="noopener noreferrer"} (19 minutes).
