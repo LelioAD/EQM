@@ -41,4 +41,11 @@ Existing politicians may be able to run on the humanitarian alliance ticket, pro
 
 Once society and candidates are aligned on what we want, we make our desires into reality by showing up in large numbers at the polls. 
 
+# Humanitarian Alliance Videos
+
+Learn more about the Humanitarian Alliance through the below video compilation.
+
+<div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11251328/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
+
+# Join the Team
 You are invited to help [build the administration](https://eqm.systems/build/), or support ongoing efforts.
