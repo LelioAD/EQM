@@ -1,7 +1,7 @@
 ---
 layout: page
 title: U.S. Humanitarian Alliance
-subtitle: Supporting ethical multiparty candidates—a realistic path to a humanitarian administration.
+subtitle: Supporting ethical multiparty candidates—a realistic path to a humanitarian administration in 2024.
 ---
 
 ![3 party pie](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/3partypieweb-wide.png?alt=media&token=5337f26a-49d4-4e5b-b99e-b0a6157b344f)
