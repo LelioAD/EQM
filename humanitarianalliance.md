@@ -50,4 +50,4 @@ Learn more about the Humanitarian Alliance through the below video compilation.
 <div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11251328/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
 # Join the Team
-You are invited to help [build the administration](https://eqm.systems/build/), or support ongoing efforts.
+You are invited to help [build the administration](https://eqm.systems/build/), learn how to support ongoing efforts with less commitment by filling out this [interest form.](https://t.co/yt8QsR33V7){:target="_blank"}{:rel="noopener noreferrer"}
