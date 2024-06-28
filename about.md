@@ -4,13 +4,9 @@ title: About
 ---
 
 - **[Equitable Market Systems (EQM)](#equitable-market-systems-eqm)**
-    - **[Social Businesses](#social-businesses)**
-    - **[Proprietary Businesses](#proprietary-businesses)**
-
 - **[What are egalitarian systems?](#what-are-egalitarian-systems)**
-    - **[Egalitarian political systems](#egalitarian-political-systems)**
-    - **[Egalitarian market systems](#egalitarian-economic-systems)**
 - **[Objective ethics](#objective-ethics)**
+- **[Lelio Dalencour, Founder](founder-lelio-dalencour)**
 
 # Equitable Market Systems (EQM)
 
@@ -65,13 +61,11 @@ It is possible to determine what is **objectively ethical** based on projected a
 
 For every company and facet of government, there are ethical ways to operate. With intentionality, we can create policies that keep everyone's best interest in mind.
 
-# The founder
-
-> Test
+# Founder, Lelio Dalencour
 
 [Lelio Dalencour](https://linkedin.com/in/lthesteward/){:target="_blank"}{:rel="noopener noreferrer"} is a creative writer, entrepreneur, career professional, and father from Queens, New York. He has a business degree from Nyack College, where his professor Dr. Ralph T. Grant, Jr. encouraged students to "pursue their own degree of excellence."
 
-![Lelio and Dr. Grant](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/lelio-drgrant.png?alt=media&token=e2a74d7b-1a90-4908-81b0-d65d721acbd6)
+![Lelio and Dr. Grant](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/IMG_8873.jpeg?alt=media&token=bc042dd0-7743-4938-808e-0cf08def3a8b)
 
 *Lelio (left) with his professor, Dr. Ralph T. Grant, Jr.*
 
