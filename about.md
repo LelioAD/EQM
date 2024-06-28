@@ -65,3 +65,16 @@ It is possible to determine what is **objectively ethical** based on projected a
 
 For every company and facet of government, there are ethical ways to operate. With intentionality, we can create policies that keep everyone's best interest in mind.
 
+# The founder
+
+> Test
+
+[Lelio Dalencour](https://linkedin.com/in/lthesteward/){:target="_blank"}{:rel="noopener noreferrer"} is a creative writer, entrepreneur, career professional, and father from Queens, New York. He has a business degree from Nyack College, where his professor Dr. Ralph T. Grant, Jr. encouraged students to "pursue their own degree of excellence."
+
+![Lelio and Dr. Grant](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/lelio-drgrant.png?alt=media&token=e2a74d7b-1a90-4908-81b0-d65d721acbd6)
+
+*Lelio (left) with his professor, Dr. Ralph T. Grant, Jr.*
+
+A homeschool student and autodidact, Lelio has spent the last seven years concerned with how "wholesomeness" can be achieved for the most people. Through this philosophical journey, he has narrowed down that most obstacles to human ideals are systemic, and can be solved by intentional economic and political action.
+
+Follow Lelio on social media as [@LtheSteward.](https://allmylinks.com/settings/manage-links){:target="_blank"}{:rel="noopener noreferrer"}
