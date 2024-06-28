@@ -31,7 +31,7 @@ Next to Secured Rights, citizens and ethical thought leaders discuss and **vote 
 
 This is where we get the country we deserve, instead of the "lesser evil": rights protected, funds allocated to society's growth, and actions taken to improve quality of life in education, healthcare, career, peace policies, prison reform, and climate change, to name a few.
 
-## 4. Identify candidates.
+## 4. Identify humanitarian candidates.
 
 Humanitarian politicians are those who understand what society wants and deserves, and take action to realize these ideals. They articulate citizens' desires for the countrym and act by introducing and approving corresponding bills.
 
@@ -43,7 +43,7 @@ Existing politicians may be able to run on the humanitarian alliance ticket, pro
 
 Once society and candidates are aligned on what we want, we make our desires into reality by showing up in large numbers at the polls. 
 
-# Humanitarian Alliance Videos
+# Videos on the Humanitarian Alliance
 
 Learn more about the Humanitarian Alliance through the below video compilation.
 
