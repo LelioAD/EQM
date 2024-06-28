@@ -6,7 +6,7 @@ title: About
 - **[Equitable Market Systems (EQM)](#equitable-market-systems-eqm)**
 - **[What are egalitarian systems?](#what-are-egalitarian-systems)**
 - **[Objective ethics](#objective-ethics)**
-- **[Lelio Dalencour, Founder](founder-lelio-dalencour)**
+- **[Founder, Lelio Dalencour](#founder-lelio-dalencour)**
 
 # Equitable Market Systems (EQM)
 
