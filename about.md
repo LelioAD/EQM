@@ -71,4 +71,4 @@ For every company and facet of government, there are ethical ways to operate. Wi
 
 A homeschool student and autodidact, Lelio has spent the last seven years concerned with how "wholesomeness" can be achieved for the most people. Through this philosophical journey, he has narrowed down that most obstacles to human ideals are systemic, and can be solved by intentional economic and political action.
 
-Follow Lelio on social media as [@LtheSteward.](https://allmylinks.com/settings/manage-links){:target="_blank"}{:rel="noopener noreferrer"}
+Follow Lelio on social media as [@LtheSteward.](https://allmylinks.com/lthesteward){:target="_blank"}{:rel="noopener noreferrer"}
