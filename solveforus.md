@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Solve 4 U.S.
+title: Solve for U.S.
 subtitle: Consulting U.S. citizens on how to achieve humanitarian economic and political outcomes in 2024.
 ---
 
