@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Solve for U.S.
+title: Solve for US
 subtitle: Consulting U.S. citizens on how to achieve humanitarian economic and political outcomes in 2024.
 ---
 
 # Initial Video Series
 
-Solve 4 US is a video series originally [published on Twitter/X](https://x.com/LtheSteward/status/1787844137422553409){:target="_blank"}{:rel="noopener noreferrer"} between May and June 2024. 
+Solve for US is a video series originally [published on Twitter/X](https://x.com/LtheSteward/status/1787844137422553409){:target="_blank"}{:rel="noopener noreferrer"} between May and June 2024. 
 
 ## Overview: Creating our own Political and Economic Solutions
 
@@ -32,7 +32,7 @@ Includes:
 3. [Teams](https://vimeo.com/968874065){:target="_blank"}{:rel="noopener noreferrer"}
 4. [Redeeming the U.S.](https://vimeo.com/968887735){:target="_blank"}{:rel="noopener noreferrer"}
 
-## Steps to a U.S. Humanitarian Majority
+## Steps to a 2024 U.S. Humanitarian Majority
 
 A step-by-step process to achieving a Humanitarian U.S. President and House supermajority in 2024, and the Senate in 2026.
 
