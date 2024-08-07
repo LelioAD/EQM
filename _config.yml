@@ -24,13 +24,14 @@ author: Equitable Market Systems
 
 navbar-links:
   About: "about"
-  Solve 4 U.S.:
-    - Solve 4 U.S. Video Series: "solve4us"
+  Solve for U.S.:
+    - Solve for U.S. Video Series: "solveforus"
     - Humanitarian Alliance: "humanitarianalliance"
   Ideals Nexus: "idealsnexus"
   International:
+    - Universal Equity: "ueq"
     - Chanje Ayiti (Change4Haiti): "chanjeayiti"
-  Join the Team: "build"
+      Join the Team: "build"
   
 
 ################
