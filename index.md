@@ -13,11 +13,6 @@ title: Radical change is possible—it starts with us.
 
 **Learn more about the [Humanitarian Alliance](https://eqm.systems/humanitarianalliance).**
 
-## [Ideals Nexus](https://ideals.nexus)
-
-American citizens solve for the U.S. by listing **ideals, issues, and solutions** for **politics, economics, society, and the environment**
-
-The community starts and supports projects that achieve humanitarian goals.
 
 ## [Thriving organizations through collective entrepreneurship.](https://eqm.systems/about#equitable-market-systems-eqm)
 

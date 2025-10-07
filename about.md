@@ -16,9 +16,9 @@ In lieu of capital and investors, our team is staffed by equity laborers—indiv
 
 EQM intends to staff every role in a traditional company via equity labor to maximize the success of our first wave of entrepreneurial projects, then hire individuals with salaries once our first profitable endeavors are successful.
 
-## Social Businesses
+## Social Corporations
 
-Many of EQM's profitable startups are considered **Social Businesses.** These companies compensate leadership and workers well, then allocate remaining earnings to launch new businesses of any size, pay taxes, and fund nonprofit and social-maximizing companies. 
+Many of EQM's profitable startups are considered **Social Corporations.** These companies compensate workers well, then allocate remaining earnings to launch new businesses of any size, pay taxes, and fund nonprofit and social-maximizing companies. 
 
 ## Proprietary Businesses
 
