@@ -8,6 +8,8 @@ The NYC Housing Subsidies Project helps CityFHEPS, Homebase, and Supportive Hous
 
 #### Download the proposal: [NYC Housing Subsidies Project proposal](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/nychousing%2FNYC01%20Housing%20Voucher%20Project.pdf?alt=media&token=934a4bac-cf07-4936-8f13-cbfa35c78fad){:target="_blank"}
 
+---
+
 ### Organizational Efficiency
 
 A Human Resources consultant meets with housing agencies to asses needs. Add the necessary team members to understaffed departments.
@@ -22,7 +24,7 @@ Work with shelters and nonprofits to help applicants keep their apartments throu
 
 ### Matchmaking Campaign
 
-![handshake|90](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/nychousing%2Ffa6-solid--handshake-simple%20grey.png?alt=media&token=fe55a5ef-c014-47ef-a5bd-ff81385ddf43)
+![handshake](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/nychousing%2Ffa6-solid--handshake-simple%20white%20180.png?alt=media&token=92129783-3295-4264-9940-51eb8344b4ba)
 
 Create a database to match CityFHEPS & Supportive Housing recipients to vacant properties. 
 
