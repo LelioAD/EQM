@@ -12,11 +12,15 @@ The NYC Housing Subsidies Project helps CityFHEPS, Homebase, and Supportive Hous
 
 ### Organizational Efficiency
 
+![organization](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/nychousing%2Ffluent--people-team-28-regular%20100.png?alt=media&token=6482f266-0a27-4d65-9502-d3d4f1d0ffcd)
+
 A Human Resources consultant meets with housing agencies to asses needs. Add the necessary team members to understaffed departments.
 
 Update IT systems to better handle load of clients. This will significantly reduce the time for agencies to process housing applications.
 
 ### Housing Readiness
+
+![buildings](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/nychousing%2Fclarity--building-line%20100.png?alt=media&token=7aceb18f-8f3e-401f-b0c9-128d8c5635c8)
 
 Matriculate unsheltered citizens to shelters. Prepare them for Single Room Occupancy housing.
 
@@ -24,7 +28,7 @@ Work with shelters and nonprofits to help applicants keep their apartments throu
 
 ### Matchmaking Campaign
 
-![handshake](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/nychousing%2Ffa6-solid--handshake-simple%20white%20180.png?alt=media&token=92129783-3295-4264-9940-51eb8344b4ba)
+![handshake](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/nychousing%2Ffa6-solid--handshake-simple%20white%20100.png?alt=media&token=02d1e455-038a-470a-b346-94c0faeda57f)
 
 Create a database to match CityFHEPS & Supportive Housing recipients to vacant properties. 
 

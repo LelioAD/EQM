@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Solve for US
-subtitle: Consulting U.S. citizens on how to achieve humanitarian economic and political outcomes in 2024.
+subtitle: Consulting U.S. citizens on how to achieve humanitarian economic and political outcomes in 2024 and beyond.
 ---
 
-![solveforus](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/nychousing%2Ffa6-solid--handshake-simple%20white%20100.png?alt=media&token=02d1e455-038a-470a-b346-94c0faeda57f)
+![solveforus](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/SolveForUSstill800.png?alt=media&token=41430b13-eb1b-422c-85ca-a3feafbfc0e6)
 
 # Initial Video Series
 
