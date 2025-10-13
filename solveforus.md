@@ -4,7 +4,7 @@ title: Solve for US
 subtitle: Consulting U.S. citizens on how to achieve humanitarian political and economic outcomes in 2024 and beyond.
 ---
 
-![solveforus](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/SolveForUSstill800.png?alt=media&token=41430b13-eb1b-422c-85ca-a3feafbfc0e6)
+![solveforus](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/SolveForUSstill800.jpg?alt=media&token=2743469c-a15b-4613-b04d-f33e81d4126f)
 
 # Initial Video Series
 
