@@ -4,6 +4,8 @@ title: Solve for US
 subtitle: Consulting U.S. citizens on how to achieve humanitarian economic and political outcomes in 2024.
 ---
 
+![solveforus](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/nychousing%2Ffa6-solid--handshake-simple%20white%20100.png?alt=media&token=02d1e455-038a-470a-b346-94c0faeda57f)
+
 # Initial Video Series
 
 Solve for US is a video series originally [published on Twitter/X](https://x.com/LtheSteward/status/1787844137422553409){:target="_blank"}{:rel="noopener noreferrer"} between May and June 2024. 
