@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NYC Housing Subsidies Project
-subtitle: Connecting homeless New Yorkers to housing more efficiently and effectively.
+subtitle: Connecting homeless and at-risk New Yorkers to housing more efficiently and effectively.
 ---
 
 The NYC Housing Subsidies Project helps CityFHEPS, Homebase, and Supportive Housing applicants obtain housing through three initiatives (below). Successful implementation will help New Yorkers afford to live in NYC, while providing landlords with guaranteed income.

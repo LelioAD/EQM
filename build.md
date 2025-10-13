@@ -8,7 +8,7 @@ subtitle: Let's build a better future together.
 
 Email [build@eqm.systems](mailto:build@eqm.systems). Add your desired role(s) to the email subject. 
 
-Inlcude one or more of the following:
+Below are some recommendations on what to submit. Choose any of the following:
 
 - Your [LinkedIn](https://www.linkedin.com/) profile
 - Resume, OR a brief description of your relevant work history.
@@ -17,6 +17,7 @@ Inlcude one or more of the following:
 - Links to work you've published that demonstrate your skills.
 - Anything you think would be helpful that isn't listed here.
 
+<!---
 # Administrative needs
 
 Equitable Market Systems (EQM) is a core administration that will develop egalitarian organizations in diffrent industries and fields. 
@@ -47,8 +48,11 @@ To accomplish both for-profit and non-profit endeavors, we will need an initial 
 
 If your role is not listed above but you're still interested in participating, contact us!
 
+--->
+
 Also feel free to reach out to [@lthesteward](https://allmylinks.com/lthesteward) on your preferred social media.
 
+<!---
 # Current Projects
 
 ## National U.S. Humanitarian Political Alliance
@@ -70,6 +74,7 @@ The tools and platforms employers and workers use to remove barriers to career s
 We will provide more information once our core team is established.
 
 ---
+--->
 
 The possibilities of sustainable, ethical products and services are endless—and you're why.
 

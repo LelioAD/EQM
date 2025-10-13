@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Solve for US
-subtitle: Consulting U.S. citizens on how to achieve humanitarian economic and political outcomes in 2024 and beyond.
+subtitle: Consulting U.S. citizens on how to achieve humanitarian political and economic outcomes in 2024 and beyond.
 ---
 
 ![solveforus](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/SolveForUSstill800.png?alt=media&token=41430b13-eb1b-422c-85ca-a3feafbfc0e6)
@@ -12,7 +12,7 @@ Solve for US is a video series originally [published on Twitter/X](https://x.com
 
 ## Overview: Creating our own Political and Economic Solutions
 
-A realistic strategy to building our own competitive political and economic solutions, before November 2024, initially with **little to no capital.**
+A realistic strategy to building our own competitive political and economic solutions, initially with **little to no capital.**
 
 <div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252031/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
@@ -34,9 +34,9 @@ Includes:
 3. [Teams](https://vimeo.com/968874065){:target="_blank"}{:rel="noopener noreferrer"}
 4. [Redeeming the U.S.](https://vimeo.com/968887735){:target="_blank"}{:rel="noopener noreferrer"}
 
-## Steps to a 2024 U.S. Humanitarian Majority
+## Steps to a U.S. Humanitarian Majority
 
-A step-by-step process to achieving a Humanitarian U.S. President and House supermajority in 2024, and the Senate in 2026.
+A step-by-step process to elect a humanitarian U.S. president, as well as sentate and congress supermajority.
 
 <div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11252047/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
