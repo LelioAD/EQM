@@ -67,6 +67,7 @@ For every company and facet of government, there are ethical ways to operate. Wi
 # Founder, Lelio Dalencour
 
 [Lelio Dalencour](https://linkedin.com/in/lthesteward/){:target="_blank"}{:rel="noopener noreferrer"} is a creative writer, entrepreneur, career professional, and father from Queens, New York. He has a business degree from Nyack College, where his professor Dr. Ralph T. Grant, Jr. encouraged students to "pursue their own degree of excellence."
+
 <!---
 ![Lelio and Dr. Grant](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/IMG_8873.jpeg?alt=media&token=bc042dd0-7743-4938-808e-0cf08def3a8b)
 
