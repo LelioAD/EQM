@@ -3,10 +3,13 @@ layout: page
 title: About
 ---
 
+<!---
 - **[Equitable Market Systems (EQM)](#equitable-market-systems-eqm)**
 - **[What are egalitarian systems?](#what-are-egalitarian-systems)**
 - **[Objective ethics](#objective-ethics)**
 - **[Founder, Lelio Dalencour](#founder-lelio-dalencour)**
+
+--->
 
 # Equitable Market Systems (EQM)
 
@@ -64,7 +67,7 @@ For every company and facet of government, there are ethical ways to operate. Wi
 
 --->
 
-# Founder, Lelio Dalencour
+## Founder, Lelio Dalencour
 
 [Lelio Dalencour](https://linkedin.com/in/lthesteward/){:target="_blank"}{:rel="noopener noreferrer"} is a creative writer, entrepreneur, career professional, and father from Queens, New York. He has a business degree from Nyack College, where his professor Dr. Ralph T. Grant, Jr. encouraged students to "pursue their own degree of excellence."
 
