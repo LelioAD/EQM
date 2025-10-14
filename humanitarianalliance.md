@@ -1,7 +1,7 @@
 ---
 layout: page
 title: U.S. Humanitarian Alliance
-subtitle: Supporting ethical multiparty candidates—a realistic path to a humanitarian administration in 2024.
+subtitle: Supporting ethical multiparty candidates—a realistic path to a humanitarian government.
 ---
 
 ![3 party pie](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/3partypieweb-wide.png?alt=media&token=5337f26a-49d4-4e5b-b99e-b0a6157b344f)
@@ -19,7 +19,7 @@ While we may not agree with everything, we have enough in common to form a new m
 
 Modern presidential candidates usually spend over $100 million on election staffing and campaigns. This creates a barrier for entry in many cases.
 
-The urgency of the 2024 election season is enough to warrant volunteers in the absence of a fully funded campaign team, while other teams building profitable projects that, once profitable, can pay the political administration retroactively.
+The consequences of U.S. elections are enough to warrant volunteers in the absence of a fully funded campaign team, while other teams build profitable projects that, once profitable, can pay the political administration retroactively.
 
 Through organized efforts, we can work together online and in person, launch marketing campaigns through social media and other mediums, and engage with voters in-person in every county.
 
@@ -50,4 +50,9 @@ Learn more about the Humanitarian Alliance through the below video compilation.
 <div style='padding:100% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/11251328/embed' allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>
 
 # Join the Team
-You are invited to help [build the administration](https://eqm.systems/build/), learn how to support ongoing efforts with less commitment by filling out this [interest form.](https://t.co/yt8QsR33V7){:target="_blank"}{:rel="noopener noreferrer"}
+You are invited to help [build the administration](https://eqm.systems/build/).
+
+<!---
+ learn how to support ongoing efforts with less commitment by filling out this [interest form.](https://t.co/yt8QsR33V7){:target="_blank"}{:rel="noopener noreferrer"}
+
+--->

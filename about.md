@@ -10,8 +10,9 @@ title: About
 
 # Equitable Market Systems (EQM)
 
-Equitable Market Systems (EQM) is an incubator for profitable, non-profit, political, and environmental startups. 
+Equitable Market Systems (EQM) consults economic and political strategy. Founded in December 2023, we present solutions to governments and citizens, and seek funding for economic development. 
 
+<!--- 
 In lieu of capital and investors, our team is staffed by equity laborers—individuals who build new companies prior to pay, and are paid retroactively once the company is profitable. 
 
 EQM intends to staff every role in a traditional company via equity labor to maximize the success of our first wave of entrepreneurial projects, then hire individuals with salaries once our first profitable endeavors are successful.
@@ -61,10 +62,12 @@ It is possible to determine what is **objectively ethical** based on projected a
 
 For every company and facet of government, there are ethical ways to operate. With intentionality, we can create policies that keep everyone's best interest in mind.
 
+--->
+
 # Founder, Lelio Dalencour
 
 [Lelio Dalencour](https://linkedin.com/in/lthesteward/){:target="_blank"}{:rel="noopener noreferrer"} is a creative writer, entrepreneur, career professional, and father from Queens, New York. He has a business degree from Nyack College, where his professor Dr. Ralph T. Grant, Jr. encouraged students to "pursue their own degree of excellence."
-
+<!---
 ![Lelio and Dr. Grant](https://firebasestorage.googleapis.com/v0/b/eqmsystems.appspot.com/o/IMG_8873.jpeg?alt=media&token=bc042dd0-7743-4938-808e-0cf08def3a8b)
 
 *Lelio (left) with his professor, Dr. Ralph T. Grant, Jr.*
@@ -72,3 +75,4 @@ For every company and facet of government, there are ethical ways to operate. Wi
 A homeschool student and autodidact, Lelio has spent the last seven years concerned with how "wholesomeness" can be achieved for the most people. Through this philosophical journey, he has narrowed down that most obstacles to human ideals are systemic, and can be solved by intentional economic and political action.
 
 Follow Lelio on social media as [@LtheSteward.](https://allmylinks.com/lthesteward){:target="_blank"}{:rel="noopener noreferrer"}
+--->
