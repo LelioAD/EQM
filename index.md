@@ -13,9 +13,13 @@ title: Radical change is possible—it starts with us.
 
 **Learn more about the [Humanitarian Alliance](https://eqm.systems/humanitarianalliance).**
 
+## A [NYC Housing Subsidies Project](https://eqm.systems/nychousing) that addresses the housing crisis 
+by improving processes and matching voucher holders to homes.
 
+<!---
 ## [Thriving organizations through collective entrepreneurship.](https://eqm.systems/about#equitable-market-systems-eqm)
 
 A strategic framework to build sustainable, ethical companies **with or without investment.**
+--->
 
 ## [Join our Team.](https://eqm.systems/build)
