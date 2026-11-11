@@ -1,0 +1,52 @@
+# EQM Global: countries in the by-country dropdown on /global.
+# To add a country, copy one block and change the values. Order here = order in the dropdown.
+#   name:     shown in the dropdown
+#   slug:     short id used in the link, e.g. eqm.systems/global#ayiti (lowercase, no spaces)
+#   language: caption or dub language for that region (PLACEHOLDER: proposed, not confirmed)
+#   channel:  link to the region's channel; leave blank until it is live (page then says "Coming soon")
+# Countries named by Lelio so far (Nov 2026); list still growing toward ~24.
+
+- name: "Ayiti (Haiti)"
+  slug: ayiti
+  language: "Haitian Creole"
+  channel: ""
+
+- name: "Bangladesh"
+  slug: bangladesh
+  language: "Bengali"
+  channel: ""
+
+- name: "Dominican Republic"
+  slug: dominican-republic
+  language: "Spanish"
+  channel: ""
+
+- name: "Jamaica"
+  slug: jamaica
+  language: "English"
+  channel: ""
+
+- name: "Mali"
+  slug: mali
+  language: "French"
+  channel: ""
+
+- name: "Puerto Rico"
+  slug: puerto-rico
+  language: "Spanish"
+  channel: ""
+
+- name: "Russia"
+  slug: russia
+  language: "Russian"
+  channel: ""
+
+- name: "United States"
+  slug: united-states
+  language: "English"
+  channel: ""
+
+- name: "Venezuela"
+  slug: venezuela
+  language: "Spanish"
+  channel: ""
