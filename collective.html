@@ -1,0 +1,384 @@
+---
+layout: null
+permalink: /collective/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Collective · Equitable Market Systems</title>
+<meta name="description" content="The Collective: artists, thinkers, makers and stewards building together with Equitable Market Systems.">
+<meta property="og:title" content="The Collective">
+<meta property="og:description" content="The Collective: artists, thinkers, makers and stewards building together with Equitable Market Systems.">
+<meta property="og:image" content="https://eqm.systems/assets/img/collective-tree.jpg">
+<meta property="og:url" content="https://eqm.systems/collective/">
+<link rel="icon" href="/favicon.ico">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Figtree:wght@400;500;600;700&display=swap">
+</head>
+<body>
+<style>
+/* The Collective splash page for eqm.systems/collective. Built from The Collective deck (public version). Painting from Lelio; colors from the painting, Cerulean Blue #2A52BE leads. */
+:root{
+  --paper:#f6f8f3; --sheet:#ffffff;
+  --veil:rgba(246,248,243,.80); --glass:rgba(255,255,255,.84);
+  --ink:#16201c; --muted:#4f5c57; --line:#dfe5dc;
+  --canopy:#1d8a4c; --sky:#2b7fd0; --deep:#1c2f86; --violet:#6446c0; --ember:#cf3128; --copper:#9c5a28;
+  --cerulean:#2A52BE; --tint-cerulean:#e9eefb;
+  --eqm:#6c1cd3;
+  --display:"Young Serif", Georgia, "Times New Roman", serif;
+  --body:"Figtree", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --shadow:0 1px 2px rgba(22,32,28,.06), 0 12px 32px rgba(22,32,28,.10);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#0d1420; --sheet:#121b2a; --veil:rgba(13,20,32,.80); --glass:rgba(18,27,42,.86);
+    --ink:#eef2ee; --muted:#a9b6b2; --line:#26344a;
+    --canopy:#4cc283; --sky:#6db3f2; --deep:#8ea2f5; --violet:#a994f0; --ember:#f17066; --copper:#d79a63;
+    --cerulean:#8aa3f2; --tint-cerulean:#18233f; --eqm:#b98cf5;
+    --shadow:0 1px 2px rgba(0,0,0,.3), 0 12px 32px rgba(0,0,0,.35);
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0d1420; --sheet:#121b2a; --veil:rgba(13,20,32,.80); --glass:rgba(18,27,42,.86);
+  --ink:#eef2ee; --muted:#a9b6b2; --line:#26344a;
+  --canopy:#4cc283; --sky:#6db3f2; --deep:#8ea2f5; --violet:#a994f0; --ember:#f17066; --copper:#d79a63;
+  --cerulean:#8aa3f2; --tint-cerulean:#18233f; --eqm:#b98cf5;
+  --shadow:0 1px 2px rgba(0,0,0,.3), 0 12px 32px rgba(0,0,0,.35);
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55}
+h1,h2,h3{font-family:var(--display);font-weight:400;text-wrap:balance;margin:0}
+p{margin:0}
+a{color:var(--cerulean)}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:max(16px, env(safe-area-inset-left, 0px))}
+section{padding-block:64px}
+section + section{border-top:1px solid var(--line)}
+.kicker{font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--copper)}
+.h2{font-size:clamp(28px,4vw,40px);line-height:1.1;margin-top:6px}
+.lead{font-size:17px;color:var(--muted);max-width:36em;margin-top:10px}
+
+/* top bar */
+.bar{position:absolute;top:0;left:0;right:0;z-index:3}
+.bar .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-block:16px}
+.brand{font-weight:700;font-size:16px;color:var(--ink);text-decoration:none;letter-spacing:-.01em}
+.brand .m{color:var(--violet)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font:600 15px var(--body);text-decoration:none;
+  border-radius:999px;padding:11px 20px;border:1.5px solid transparent;cursor:pointer;min-height:44px}
+.btn.primary{background:#2A52BE;color:#fff}
+.btn.primary:hover{background:#1f44a8}
+.btn.ghost{background:var(--glass);color:var(--ink);border-color:var(--line)}
+.btn.ghost:hover{border-color:var(--cerulean)}
+.btn:focus-visible,.chips button:focus-visible{outline:3px solid var(--sky);outline-offset:2px}
+
+/* hero */
+.hero{position:relative;min-height:100svh;display:grid;align-items:center;padding-block:96px 56px;overflow:hidden;border-top:0}
+.hero .bg{position:absolute;inset:0;z-index:0}
+.hero .bg img{width:100%;height:100%;object-fit:cover;display:block}
+.hero .bg::after{content:"";position:absolute;inset:0;background:var(--veil)}
+.hero .wrap{position:relative;z-index:1;display:grid;gap:40px;grid-template-columns:minmax(0,1fr)}
+.hero-copy{display:grid;gap:16px;justify-items:start}
+.hero h1{font-size:clamp(52px,8vw,92px);line-height:1;letter-spacing:-.01em}
+.hero h1 .the{color:var(--cerulean)}
+.proposed{font-size:14px;color:var(--muted)}
+.proposed b{color:var(--ink)} .proposed .m{color:var(--violet)}
+.opener{font-family:var(--display);font-size:clamp(24px,3.2vw,34px);line-height:1.2;max-width:17em}
+.sub{font-size:17.5px;max-width:31em}
+.ctas{display:flex;flex-wrap:wrap;gap:10px;margin-top:6px}
+.frame{display:none}
+@media (min-width:960px){
+  .hero .wrap{grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);align-items:center}
+  .frame{display:block;border-radius:16px;overflow:hidden;box-shadow:var(--shadow);border:6px solid var(--sheet);max-width:420px;justify-self:end}
+  .frame img{width:100%;height:auto;display:block}
+}
+
+/* audience chips */
+.chips{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:10px}
+.chips .lbl{font-size:13px;color:var(--muted);margin-right:2px}
+.chips button{font:600 14px var(--body);color:var(--ink);background:var(--glass);border:1.5px solid var(--line);border-radius:999px;padding:8px 14px;cursor:pointer;min-height:40px}
+.chips button:hover{border-color:var(--cerulean)}
+.chips button[aria-pressed="true"]{background:#2A52BE;border-color:#2A52BE;color:#fff}
+
+/* you can do this */
+.cando{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:28px}
+.cando div{background:var(--sheet);border-radius:14px;padding:20px;box-shadow:var(--shadow);border-top:4px solid var(--c)}
+.cando b{display:block;font-family:var(--display);font-weight:400;font-size:21px;margin-bottom:6px}
+.origin{font-style:italic;color:var(--muted);max-width:40em;margin-top:24px}
+
+/* paths */
+.paths{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px;margin-top:28px}
+.paths div{position:relative;background:var(--sheet);border-radius:12px;padding:18px;box-shadow:var(--shadow);border-top:4px solid var(--c);transition:outline-color .2s}
+.paths b{display:block;font-family:var(--display);font-weight:400;font-size:22px;margin-bottom:4px;color:var(--c)}
+.paths div.on{outline:2px solid var(--c);outline-offset:-2px}
+.paths div+div::before{content:"+";position:absolute;left:-7px;top:50%;transform:translate(-50%,-50%);width:22px;height:22px;border-radius:50%;background:var(--cerulean);color:#fff;font:700 15px/22px var(--body);text-align:center;z-index:1}
+.many{font-weight:600;color:var(--cerulean);margin-top:16px}
+
+/* sphere */
+.s-grid{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:40px;align-items:center;margin-top:20px}
+.sphere{width:100%;height:auto;display:block;max-width:520px}
+.sphere .edge{stroke:var(--line);stroke-width:1.3}
+.sphere .edge.hot{stroke:var(--cerulean);stroke-width:2}
+.sphere text{font-family:var(--body);fill:var(--ink);font-size:12.5px;font-weight:600}
+.sphere text.small{font-weight:500;fill:var(--muted);font-size:11.5px}
+.sphere .halo{fill:none;stroke-width:2;opacity:0;transition:opacity .25s}
+.sphere .on .halo{opacity:1}
+.steps{display:grid;gap:18px}
+.step{display:grid;grid-template-columns:36px minmax(0,1fr);gap:14px;align-items:start}
+.step .n{width:36px;height:36px;border-radius:50%;display:grid;place-items:center;font-family:var(--display);font-size:17px;color:#fff}
+.step:nth-child(1) .n{background:#2A52BE} .step:nth-child(2) .n{background:#6446c0} .step:nth-child(3) .n{background:#1d8a4c}
+.step b{display:block;font-size:17px}
+.step span{color:var(--muted)}
+
+/* get + tiers */
+.two{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;margin-top:28px;align-items:start}
+.get{background:var(--tint-cerulean);border-radius:14px;padding:22px 24px}
+.get h3{font-size:23px;color:var(--cerulean);margin-bottom:10px}
+.get ul{margin:0;padding-left:20px;display:grid;gap:8px}
+.get li::marker{color:var(--cerulean)}
+.tiers h3{font-size:23px}
+.tiers > p{color:var(--muted);margin-top:4px}
+.tier{display:grid;grid-template-columns:110px minmax(0,1fr);gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}
+.tier:first-of-type{margin-top:10px;border-top:1px solid var(--line)}
+.tier .k{font-weight:700}
+.tier:nth-of-type(1) .k{color:var(--copper)} .tier:nth-of-type(2) .k{color:var(--violet)} .tier:nth-of-type(3) .k{color:var(--sky)}
+.fine{font-size:13px;color:var(--muted);margin-top:12px}
+
+/* rules */
+.rules{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-top:24px}
+.rules div{border:1px solid var(--line);border-radius:12px;padding:16px;background:var(--sheet)}
+.rules b{display:block;margin-bottom:4px}
+
+/* close */
+.close{background:var(--sheet);border-top:4px solid #2A52BE}
+.close .wrap{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:32px;align-items:end}
+.close h2{font-size:clamp(28px,4vw,40px);line-height:1.12}
+.tongues{color:var(--copper);font-style:italic;margin-top:10px}
+.contact{display:grid;gap:10px;justify-items:start}
+.contact small{display:block;color:var(--muted);font-size:13px}
+.contact a{font-weight:700;text-decoration:none}
+.contact a:hover{text-decoration:underline}
+footer.site{padding-block:24px;font-size:13px;color:var(--muted)}
+footer.site .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
+footer.site a{color:var(--muted)}
+
+@media (max-width:800px){
+  section{padding-block:48px}
+  .cando,.two,.s-grid{grid-template-columns:minmax(0,1fr)}
+  .paths{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .paths div:nth-child(3)::before,.paths div:nth-child(5)::before{display:none}
+  .rules{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .close .wrap{grid-template-columns:minmax(0,1fr)}
+  .tier{grid-template-columns:minmax(0,1fr);gap:2px}
+}
+@media (max-width:420px){ .rules{grid-template-columns:minmax(0,1fr)} }
+@media (prefers-reduced-motion:reduce){*{transition:none!important} html{scroll-behavior:auto}}
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <a class="brand" href="/">Equitable <span class="m">Market</span> Systems</a>
+    <a class="btn ghost" href="#join">Join</a>
+  </div>
+</header>
+
+<main>
+<section class="hero" aria-label="The Collective">
+  <div class="bg" aria-hidden="true"><img src="/assets/img/collective-tree.jpg" alt=""></div>
+  <div class="wrap">
+    <div class="hero-copy">
+      <span class="kicker" data-slot="eyebrow">An invitation · since 2018</span>
+      <h1><span class="the">The</span> Collective</h1>
+      <p class="proposed">Proposed by <b>Equitable <span class="m">Market</span> Systems.</b></p>
+      <p class="opener" data-slot="opener">Your dream is closer than it feels.</p>
+      <p class="sub" data-slot="sub">Bring the idea you've carried for years. Here you build it with people walking the same way, at a pace that lets you breathe.</p>
+      <div class="ctas">
+        <a class="btn primary" href="#paths">Find your path</a>
+        <a class="btn ghost" href="#join">Write to us</a>
+      </div>
+      <div class="chips" role="group" aria-label="I'm here as">
+        <span class="lbl">I'm here as</span>
+        <button type="button" data-v="general" aria-pressed="true">Anyone</button>
+        <button type="button" data-v="creators" aria-pressed="false">A creator</button>
+        <button type="button" data-v="makers" aria-pressed="false">A maker</button>
+        <button type="button" data-v="backers" aria-pressed="false">A backer</button>
+        <button type="button" data-v="producers" aria-pressed="false">A producer</button>
+        <button type="button" data-v="team" aria-pressed="false">A steward</button>
+      </div>
+    </div>
+    <figure class="frame" style="margin:0"><img src="/assets/img/collective-tree.jpg" alt="Lelio Dalencour's painting of a tree, the centerpiece of The Collective"></figure>
+  </div>
+</section>
+
+<section aria-labelledby="cando-h">
+  <div class="wrap">
+    <span class="kicker">Start here</span>
+    <h2 class="h2" id="cando-h" style="color:var(--cerulean)">You can do this.</h2>
+    <div class="cando">
+      <div style="--c:var(--sky)"><b>Start where you are.</b>The idea, the skill or the hour you have today is enough to begin.</div>
+      <div style="--c:var(--violet)"><b>You won't build alone.</b>Artists, thinkers, makers and stewards move together, in step.</div>
+      <div style="--c:var(--canopy)"><b>Grow at a healthy pace.</b>Steady, peaceful work, shared among many hands.</div>
+    </div>
+    <p class="origin">The Collective began as a spiritual idea: every person carries something the whole needs. In 2018 it became a gathering of people. Now it has the tools to build.</p>
+  </div>
+</section>
+
+<section id="paths" aria-labelledby="paths-h">
+  <div class="wrap">
+    <span class="kicker">Five ways in</span>
+    <h2 class="h2" id="paths-h">Find your place.</h2>
+    <div class="paths">
+      <div data-p="creators" style="--c:var(--ember)"><b>Creators</b>Publish and promote your work on the platform.</div>
+      <div data-p="makers" style="--c:var(--copper)"><b>Makers</b>Make goods by hand, from pottery to soap to art.</div>
+      <div data-p="backers" style="--c:var(--cerulean)"><b>Backers</b>Help fund the work you believe in.</div>
+      <div data-p="producers" style="--c:var(--canopy)"><b>Producers</b>Turn proven goods into steady production, made fairly.</div>
+      <div data-p="team" style="--c:var(--violet)"><b>Stewards</b>Build the company with us, day to day.</div>
+    </div>
+    <p class="many">Be one, or be several. Many creators are makers and backers too.</p>
+  </div>
+</section>
+
+<section aria-labelledby="sphere-h">
+  <div class="wrap">
+    <span class="kicker">How it grows</span>
+    <h2 class="h2" id="sphere-h">A sphere of ideas</h2>
+    <p class="lead">Every idea is a node. Every person who joins adds links. What draws the most light grows first.</p>
+    <div class="s-grid">
+      <svg class="sphere" viewBox="0 0 380 350" role="img" aria-labelledby="sph-t">
+        <title id="sph-t">A graph of ideas: The Collective at the center, linked to creators, makers, backers and stewards, who link out to projects such as Compiler and Social Corporations.</title>
+        <g id="edges"></g><g id="nodes"></g>
+      </svg>
+      <div class="steps">
+        <div class="step"><span class="n">1</span><div><b>Share it</b><span>Ideas, art and products go out in the open, credited to the person who made them.</span></div></div>
+        <div class="step"><span class="n">2</span><div><b>Find the light</b><span>The audience shows what resonates. That signal sets what we build next.</span></div></div>
+        <div class="step"><span class="n">3</span><div><b>Build it together</b><span>Demand for one project funds the next branch: media, goods, community work.</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section aria-labelledby="get-h">
+  <div class="wrap">
+    <div class="two">
+      <div class="get">
+        <h3 id="get-h" data-slot="get-h">What you get</h3>
+        <ul data-slot="get"></ul>
+      </div>
+      <div class="tiers">
+        <h3>Three paths in</h3>
+        <p>Every path is designed around simple interest, paid from profits.</p>
+        <div class="tier"><span class="k">Pre-legacy</span><span>Build from the very start with sweat equity and no stipend. Your contribution is recorded from day one.</span></div>
+        <div class="tier"><span class="k">Legacy</span><span>Sweat equity, plus stipends as soon as the company can afford them.</span></div>
+        <div class="tier"><span class="k">Public</span><span>Open to everyone who wants to back the work, once an offering is ready.</span></div>
+        <p class="fine">Nothing here is promised or guaranteed, and this page is not an offer of securities. Terms are subject to change and will be set with counsel.</p>
+      </div>
+    </div>
+    <div class="rules">
+      <div><b>Honest about money</b>We show models and projections. We never promise outcomes.</div>
+      <div><b>People first</b>AI carries the load so people can create.</div>
+      <div><b>Consent first</b>Nothing about you is published without your yes.</div>
+      <div><b>Built clean</b>Eco-friendly, non-exploitative and open to all.</div>
+    </div>
+  </div>
+</section>
+
+<section class="close" id="join" aria-labelledby="close-h">
+  <div class="wrap">
+    <div>
+      <h2 id="close-h" data-slot="close">Make a wish. Then build it, with us.</h2>
+      <p class="tongues">Ann bati ansanm · Construyamos juntos · Construisons ensemble</p>
+    </div>
+    <div class="contact">
+      <div><a href="mailto:build@eqm.systems?subject=The%20Collective">build@eqm.systems</a><small>The Collective team</small></div>
+      <div><a href="tel:+19294810340">(929) 481-0340</a><small>Call or text</small></div>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="site">
+  <div class="wrap"><span>Equitable Market Systems · The Collective</span><a href="/">eqm.systems</a></div>
+</footer>
+
+<script>
+(function(){
+  var V = {
+    general:{eyebrow:"An invitation · since 2018",opener:"Your dream is closer than it feels.",
+      sub:"Bring the idea you've carried for years. Here you build it with people walking the same way, at a pace that lets you breathe.",
+      getH:"What you get",get:["A place in the Collective, in the role that fits you.","Tools, people and a plan for the thing you want to make.","A first step, chosen with you."],
+      close:"Make a wish. Then build it, with us.",hot:["core"],paths:[]},
+    creators:{eyebrow:"For creators · since 2018",opener:"Make what you love. We'll help it find its people.",
+      sub:"Your stories, art and ideas deserve an audience. Bring the footage; we help you finish it, publish it and grow it, steadily.",
+      getH:"What you get as a creator",get:["Compiler: send raw footage, get finished, platform-ready videos back.","Publishing tuned to your niche and improved with fresh data every week.","Your name stays on your work, wherever it travels."],
+      close:"Make what you love. We'll carry it further, together.",hot:["creators"],paths:["creators"]},
+    makers:{eyebrow:"For makers · since 2018",opener:"The things you make by hand can reach real shelves.",
+      sub:"Pottery, soap, clothing, art: goods made well, by you. Bring your craft and we help it find its people.",
+      getH:"What you get as a maker",get:["A place to show and sell what you make, credited to you.","People who have made and sold goods before, beside you.","A path from one-off pieces to steady work, at your pace."],
+      close:"Make it well. Then share it, with us.",hot:["makers"],paths:["makers"]},
+    backers:{eyebrow:"For backers · since 2018",opener:"Back the work you believe in.",
+      sub:"Help fund the creators, makers and projects that move you, and see where your support goes.",
+      getH:"What you get as a backer",get:["A clear view of the projects you can support.","Models and projections shown openly, never promised outcomes.","A way to back everyday goods and art made fairly."],
+      close:"Back what you believe in, with us.",hot:["backers"],paths:["backers"]},
+    producers:{eyebrow:"For producers · since 2018",opener:"Turn good goods into steady production.",
+      sub:"When a maker's product finds its audience, producers help make it at scale: ethically, cleanly and fairly.",
+      getH:"What you get as a producer",get:["Products with proven demand to produce.","Partners who share the Collective's fair-work code.","Production designed to be eco-friendly and non-exploitative."],
+      close:"Build it to last, with us.",hot:["makers","backers"],paths:["producers"]},
+    team:{eyebrow:"For stewards · since 2018",opener:"Do the work you were made for, among people who build in peace.",
+      sub:"Stewards lead the Collective forward, calmly and together. Bring your gifts; we'll find the seat where they shine.",
+      getH:"What you get as a steward",get:["A seat on the team, in the role that fits your gifts.","Your contribution recorded as sweat equity from day one.","Calm, respectful work where ideas meet and the better one wins."],
+      close:"Take your seat. Let's build in harmony.",hot:["stewards"],paths:["team"]}
+  };
+  var C={canopy:"var(--canopy)",sky:"var(--sky)",deep:"var(--deep)",violet:"var(--violet)",ember:"var(--ember)",copper:"var(--copper)"};
+  var N=[
+    {id:"core",x:190,y:172,r:30,c:C.canopy,t:"The Collective",big:1},
+    {id:"creators",x:92,y:92,r:17,c:C.ember,t:"Creators"},
+    {id:"stewards",x:292,y:88,r:17,c:C.violet,t:"Stewards"},
+    {id:"backers",x:306,y:254,r:17,c:C.sky,t:"Backers"},
+    {id:"makers",x:78,y:254,r:17,c:C.copper,t:"Makers"},
+    {id:"compiler",x:190,y:30,r:11,c:C.canopy,t:"Compiler",s:1},
+    {id:"media",x:34,y:166,r:8,c:C.ember,t:"Books & film",s:1},
+    {id:"journal",x:110,y:20,r:7,c:C.ember,t:"Video journal",s:1},
+    {id:"ethics",x:352,y:166,r:8,c:C.violet,t:"Ethics code",s:1},
+    {id:"socorp",x:194,y:322,r:11,c:C.deep,t:"Social Corporations",s:1},
+    {id:"pods",x:346,y:322,r:8,c:C.sky,t:"City pods",s:1},
+    {id:"fair",x:282,y:16,r:7,c:C.violet,t:"Fair work",s:1},
+    {id:"goods",x:40,y:322,r:8,c:C.copper,t:"Everyday goods",s:1}];
+  var E=[["core","creators"],["core","stewards"],["core","backers"],["core","makers"],
+    ["creators","compiler"],["creators","media"],["creators","journal"],["stewards","ethics"],["stewards","fair"],["stewards","compiler"],
+    ["backers","pods"],["backers","socorp"],["backers","ethics"],["makers","socorp"],["makers","goods"],["makers","media"],
+    ["compiler","core"],["socorp","core"],["creators","stewards"],["backers","makers"]];
+  var ns="http://www.w3.org/2000/svg",byId={};
+  N.forEach(function(n){byId[n.id]=n;});
+  var eg=document.getElementById("edges"),ng=document.getElementById("nodes");
+  E.forEach(function(e){var a=byId[e[0]],b=byId[e[1]],l=document.createElementNS(ns,"line");
+    l.setAttribute("x1",a.x);l.setAttribute("y1",a.y);l.setAttribute("x2",b.x);l.setAttribute("y2",b.y);
+    l.setAttribute("class","edge");l.dataset.a=e[0];l.dataset.b=e[1];eg.appendChild(l);});
+  N.forEach(function(n){var g=document.createElementNS(ns,"g");g.dataset.id=n.id;
+    var h=document.createElementNS(ns,"circle");h.setAttribute("cx",n.x);h.setAttribute("cy",n.y);h.setAttribute("r",n.r+6);h.setAttribute("class","halo");h.style.stroke=n.c;g.appendChild(h);
+    var c=document.createElementNS(ns,"circle");c.setAttribute("cx",n.x);c.setAttribute("cy",n.y);c.setAttribute("r",n.r);c.style.fill=n.c;g.appendChild(c);
+    var t=document.createElementNS(ns,"text");var y=n.big?n.y+n.r+17:(n.s?(n.y>300?n.y-n.r-6:n.y+n.r+14):n.y+n.r+15);
+    t.setAttribute("x",n.x);t.setAttribute("y",y);t.setAttribute("text-anchor","middle");if(n.s)t.setAttribute("class","small");if(n.big)t.style.fontSize="14px";
+    t.textContent=n.t;g.appendChild(t);ng.appendChild(g);});
+  var buttons=document.querySelectorAll(".chips button");
+  function slot(k,v){document.querySelector('[data-slot="'+k+'"]').textContent=v;}
+  function show(key){if(!V[key])key="general";var v=V[key];
+    slot("eyebrow",v.eyebrow);slot("opener",v.opener);slot("sub",v.sub);slot("get-h",v.getH);slot("close",v.close);
+    var ul=document.querySelector('[data-slot="get"]');ul.innerHTML="";
+    v.get.forEach(function(s){var li=document.createElement("li");li.textContent=s;ul.appendChild(li);});
+    ng.querySelectorAll("g").forEach(function(g){g.classList.toggle("on",v.hot.indexOf(g.dataset.id)>-1);});
+    eg.querySelectorAll("line").forEach(function(l){l.classList.toggle("hot",v.hot.indexOf(l.dataset.a)>-1||v.hot.indexOf(l.dataset.b)>-1);});
+    document.querySelectorAll(".paths div").forEach(function(d){d.classList.toggle("on",v.paths.indexOf(d.dataset.p)>-1);});
+    buttons.forEach(function(b){b.setAttribute("aria-pressed",b.dataset.v===key?"true":"false");});}
+  buttons.forEach(function(b){b.addEventListener("click",function(){show(b.dataset.v);
+    try{history.replaceState(null,"",b.dataset.v==="general"?location.pathname+location.search:"#"+b.dataset.v);}catch(e){}});});
+  function fromHash(){var h=(location.hash||"").slice(1);if(V[h])show(h);}
+  window.addEventListener("hashchange",fromHash);show("general");fromHash();
+})();
+</script>
+
+</body>
+</html>

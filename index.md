@@ -21,4 +21,4 @@ title: Radical change is possible—it starts with us.
 A strategic framework to build sustainable, ethical companies **with or without investment.**
 --->
 
-## [Join our Team.](https://eqm.systems/build)
+## [Join our Team.](https://eqm.systems/stewards)
